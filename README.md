@@ -1,2 +1,3 @@
 # Task Scheduler App (Reactjs, Typescript, Redux, Tailwind)
-Fun project just
+Front-end warm up
+![alt text](public/images/reactjs.png)
